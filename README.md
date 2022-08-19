@@ -1,10 +1,9 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-003 : Parallax Website (HC-03)
+
+# Project : Parallax Website 
 
 ## Description
-Project aims to create parallax website.
+Project aims to create a responsive parallax website.
 
 ## Problem Statement
 
@@ -13,19 +12,19 @@ Project aims to create parallax website.
 ## Project Skeleton 
 
 ```
-003-parallax-website (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
-|----solution
-        |----index.html  
-        |----style.css   
-        |----images
+parallax-website(folder)
+
+|----README.md                   
+|----images      
+     | photos...
+|----index.html  
+|----style.css   
+|----images
 ```
 
 ## Expected Outcome
 
-![Project 003 Snapshot](Project_003_.gif)
+![https://bavi-boop.github.io/parallax-website/](Project_003_.gif)
 
 ## Objective
 
