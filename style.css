@@ -3,3 +3,163 @@
     padding: 0;
     box-sizing: border-box;
 }
+body, html {
+    height: 100%;
+    margin:0;
+    padding:0;
+  }
+
+  .container {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+  }
+
+.first {
+    background-image: url(./images/bg.jpg);
+}
+
+.first h2{
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    position: relative;
+    top: 43%;
+    color: #fff;
+    background-color: #4D4D4D;
+    display: inline-block;
+    left: 33%;
+    padding: 2rem 2rem;
+    outline-color: #A64DA6;
+    outline-style: inset;
+    outline-width: 0.5rem;
+    outline-offset: 1rem;
+    letter-spacing: 0.6rem;
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+}
+
+.second {
+    background-image: url(./images/bg2.jpg);
+    height: 70rem;
+}
+
+.first-part {
+    background-color: #F1F1F1;
+    height: 30%;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+
+}
+
+.first-part h2, .first-part p {
+    position: relative;
+    top: 25%;
+    left: 7%;
+    line-height: 1.9rem;
+    width: 85%;
+    font-size: 1rem;
+}
+
+.first-part h2 {
+    top: 19%;
+    font-size: 1.5rem;
+}
+
+.third .first-part {
+    background-color: #282E34;
+    color: #fff;
+}
+
+span {
+    font-weight: 700;
+}
+
+.second img {
+    position: relative;
+    left: 35%;
+    top: 35%;
+}
+
+.third {
+    background-image: url(./images/bg3.jpg);
+    height: 68rem;
+}
+
+
+.third-h2 {
+    position: relative;
+    top: 33%;
+    left: 20%;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    color: #fff;
+    background-color: #4D4D4D;
+    display: inline-block;
+    padding: 0.5rem 2rem;
+    outline-color: #A64DA6;
+    outline-style: inset;
+    outline-width: 0.5rem;
+    outline-offset: 0.2rem;
+    letter-spacing: 0.5rem;
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    width: 50rem;
+}
+
+.fourth {
+    background-image: url(./images/bg4.jpg);
+    height: 68rem;
+}
+
+.fourth-h2 {
+    top: 25%;
+    left: 30%;
+    width: 33rem;
+}
+
+.fifth {
+    background-image: url(./images/bg.jpg);
+    height: 80rem;
+}
+
+.fifth .first-part {
+    background-color: #282E34;
+    color: #fff;
+}
+
+
+@media screen and (max-width: 1000px){
+    html {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    html {
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    html {
+        font-size: 7px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    html {
+        font-size: 6px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    html {
+        font-size: 5px;
+    }
+}
