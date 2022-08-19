@@ -50,15 +50,6 @@ parallax-website(folder)
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
->>Part-1 HTML Structure
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structur of the HTML
-
->>Part-2 CSS Structure
-	- Set a background and define font-color="white"
-	- Set container background color and margin
-	- Define others color-size-padding etc...
 	
 ## Notes
 <hr>
