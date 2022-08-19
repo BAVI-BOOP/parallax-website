@@ -24,7 +24,7 @@ parallax-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/parallax-website/"><a></a>![](Project_003_.gif)</a>
+<a href="https://www.w3schools.com"><img src="Project_003_.gif" alt="screenshot" width="300" height="300"></a>
 
 ## Objective
 
