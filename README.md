@@ -24,7 +24,7 @@ parallax-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="600" height="500"></a>
+<a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="700" height=""600></a>
 
 ## Objective
 
@@ -76,6 +76,10 @@ Build a Landing that is functionally similar to this: [Parallax Website](https:/
 ## Resources
 
 -  [Images](./img)
-
+<hr>
+<h3>How to Use the Project</h3>
+<span>First download a code editor </span>
+<br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/tea-cozy-website'>My Docs</a>
+<br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
 <center> ⌛ Happy Coding  ✍ </center>
