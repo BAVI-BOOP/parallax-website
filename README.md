@@ -24,7 +24,7 @@ parallax-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="700" height=""600></a>
+<a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="700" height="600"></a>
 
 ## Objective
 
