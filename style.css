@@ -2,11 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-align: center;
 }
 body, html {
     height: 100%;
     margin:0;
     padding:0;
+    opacity: 0.8;
   }
 
   .container {
@@ -15,21 +17,22 @@ body, html {
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
+
   }
 
 .first {
-    background-image: url(./images/bg.jpg);
+    height: 100vh;
+    background-image: linear-gradient(rgba(240, 238, 238, 0.4), rgba(243, 241, 241, 0.4)),url("./images/bg.jpg");
 }
 
 .first h2{
+    width: 30rem;
+    transform: translateY(40vh);
+    margin: auto;
     border-top-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
-    position: relative;
-    top: 43%;
     color: #fff;
     background-color: #4D4D4D;
-    display: inline-block;
-    left: 33%;
     padding: 2rem 2rem;
     outline-color: #A64DA6;
     outline-style: inset;
@@ -43,13 +46,13 @@ body, html {
 }
 
 .second {
-    background-image: url(./images/bg2.jpg);
+    background-image: linear-gradient(rgba(240, 238, 238, 0.4), rgba(243, 241, 241, 0.4)),url("./images/bg2.jpg");
     height: 70rem;
 }
 
 .first-part {
     background-color: #F1F1F1;
-    height: 30%;
+    height: 25%;
     font-family: 'Lato', sans-serif;
     text-align: center;
 
@@ -79,21 +82,18 @@ span {
 }
 
 .second img {
-    position: relative;
-    left: 35%;
-    top: 35%;
+    transform: translateY(40vh);
+    margin: auto;
 }
 
 .third {
-    background-image: url(./images/bg3.jpg);
+    background-image: linear-gradient(rgba(240, 238, 238, 0.4), rgba(243, 241, 241, 0.4)),url("./images/bg3.jpg");
     height: 68rem;
 }
 
 
 .third-h2 {
-    position: relative;
-    top: 33%;
-    left: 20%;
+
     border-top-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
     color: #fff;
@@ -113,18 +113,14 @@ span {
 }
 
 .fourth {
-    background-image: url(./images/bg4.jpg);
+    background-image: linear-gradient(rgba(240, 238, 238, 0.4), rgba(243, 241, 241, 0.4)),url("./images/bg4.jpg");
     height: 68rem;
 }
 
-.fourth-h2 {
-    top: 25%;
-    left: 30%;
-    width: 33rem;
-}
+
 
 .fifth {
-    background-image: url(./images/bg.jpg);
+    background-image: linear-gradient(rgba(240, 238, 238, 0.4), rgba(243, 241, 241, 0.4)),url("./images/bg.jpg");
     height: 80rem;
 }
 
@@ -133,33 +129,38 @@ span {
     color: #fff;
 }
 
+.third-h2, .fourth h2:not(.first-part h2) {
+    transform: translateY(40vh);
+    margin: auto;
+}
+
 
 @media screen and (max-width: 1000px){
     html {
-        font-size: 10px;
+        font-size: 13px;
     }
 }
 
 @media screen and (max-width: 900px){
     html {
-        font-size: 9px;
+        font-size: 11px;
     }
 }
 
 @media screen and (max-width: 700px){
     html {
-        font-size: 7px;
+        font-size: 9px;
     }
 }
 
 @media screen and (max-width: 600px){
     html {
-        font-size: 6px;
+        font-size: 8px;
     }
 }
 
 @media screen and (max-width: 500px){
     html {
-        font-size: 5px;
+        font-size: 7px;
     }
 }
