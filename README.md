@@ -24,11 +24,13 @@ parallax-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="700" height="600"></a>
+<a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="600" height="500"></a>
 
-## Objective
+## Live Website
 
-Build a Landing that is functionally similar to this: [Parallax Website](https://mark-mad.github.io/parallax-website/)
+<hr>
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/parallax-website/"/a>
+<hr>
 
 ### At the end of the project, following topics are to be covered;
 
@@ -65,17 +67,13 @@ Build a Landing that is functionally similar to this: [Parallax Website](https:/
 	- Set container background color and margin
 	- Define others color-size-padding etc...
 	
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Deploy your application on Github template to showcase your app within your team.
-
 ## Notes
+<hr>
+<h3>Used in this project</h3>
 
-- You can use HTML,and CSS to complete this project.
+👉Flexbox, HTML tags, Comments, CSS styling, Positioning,etc.
 
-## Resources
 
--  [Images](./img)
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
