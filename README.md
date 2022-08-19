@@ -43,19 +43,12 @@ parallax-website(folder)
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
 
-### At the end of the project, students will be able to;
+### At the end of the project, I am able to;
 
 - improve coding skills within HTML & CSS
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create Parallax Website
 
 >>Part-1 HTML Structure
 	- Creat structure of the HTML5
