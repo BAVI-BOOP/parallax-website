@@ -26,7 +26,7 @@ parallax-website(folder)
 |----images
 ```
 
-## Expected Outcome
+## Snapshot
 
 <a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="600" height="500"></a>
 
