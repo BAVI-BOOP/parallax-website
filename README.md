@@ -8,6 +8,10 @@ Project aims to create a responsive parallax website.
 ## Problem Statement
 
 - Your company has recently started on a project that aims to create a parallax website. So you and your colleagues have started to work on the project.
+<hr>
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/parallax-website/">Live Website</a>
+<hr>
+
 
 ## Project Skeleton 
 
@@ -28,9 +32,6 @@ parallax-website(folder)
 
 ## Live Website
 
-<hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/parallax-website/">Live Website</a>
-<hr>
 
 ### At the end of the project, following topics are to be covered;
 
