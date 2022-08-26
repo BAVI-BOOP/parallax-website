@@ -11,7 +11,7 @@
 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Project Skeleton](#project-skeleton)
+  - [Skeleton](#pskeleton)
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
